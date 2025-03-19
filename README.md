@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7877f99-9b7c-4c71-98f5-37cc919030b4)ssl
+ssl
 - MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research
 - Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter
 - Anatomy of Industrial Scale Multilingual ASR
@@ -35,8 +35,10 @@ acoustic feature
 dataset
 - Sagalee: an Open Source Automatic Speech Recognition Dataset for Oromo Language
 
+
 decoding
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition
+
 
 text
 - Scaling A Simple Approach to Zero-Shot Speech Recognition
