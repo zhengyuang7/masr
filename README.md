@@ -36,7 +36,6 @@
 - Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition
 - EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios
 - Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter
-- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
 
 
 
@@ -49,7 +48,7 @@
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition
 - Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition
 - Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer
-
+- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
 
 
 
