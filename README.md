@@ -33,7 +33,7 @@ especial application
 
 
 acoustic feature
-- FUSION OF DISCRETE REPRESENTATIONS AND SELF-AUGMENTED REPRESENTATIONS FOR MULTILINGUAL AUTOMATIC SPEECH RECOGNITION
+- Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition
 - EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios
 
 
