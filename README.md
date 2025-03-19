@@ -46,7 +46,7 @@ dataset
 decoding
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition
 - Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition
-- MULTILINGUAL AUDIO-VISUAL SPEECH RECOGNITION WITH HYBRID CTC/RNN-T FAST CONFORMER
+- Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer
 - Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
 
 
