@@ -50,3 +50,6 @@ decoding
 text
 - Scaling A Simple Approach to Zero-Shot Speech Recognition
 
+
+loss
+- Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition
