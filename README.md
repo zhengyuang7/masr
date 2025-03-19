@@ -1,4 +1,4 @@
-ssl
+# ssl
 - MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research
 - Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter
 - Anatomy of Industrial Scale Multilingual ASR
@@ -7,7 +7,7 @@ ssl
 
 
 
-moe
+# moe
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Ecient Sparsity
 - Mixture-of-Expert Conformer for Streaming Multilingual ASR
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
@@ -20,30 +20,30 @@ moe
 
 
 
-extend language
+# extend language
 - Extending Multilingual ASR to New Languages Using Supplementary Encoder and Decoder Components
 
 
 
-especial application
+# especial application
 - A Comparative Analysis of Bilingual and Trilingual Wav2Vec Models for Automatic Speech Recognition in Multilingual Oral History Archives
 - Speech Recognition for Automatically Assessing Afrikaans and isiXhosa Preschool Oral Narratives
 - Automatic speech recognition (ASR) for the diagnosis of pronunciation of speech sound disorders in Korean children
 
 
 
-acoustic feature
+# acoustic feature
 - Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition
 - EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios
 
 
 
-dataset
+# dataset
 - Sagalee: an Open Source Automatic Speech Recognition Dataset for Oromo Language
 
 
 
-decoding
+# decoding
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition
 - Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition
 - Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer
@@ -51,6 +51,6 @@ decoding
 
 
 
-text
+# text
 - Scaling A Simple Approach to Zero-Shot Speech Recognition
 
