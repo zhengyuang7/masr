@@ -6,6 +6,7 @@ ssl
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets
 
 
+
 moe
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Ecient Sparsity
 - Mixture-of-Expert Conformer for Streaming Multilingual ASR
@@ -18,8 +19,10 @@ moe
 - M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization
 
 
+
 extend language
 - EXTENDING MULTILINGUAL ASR TO NEW LANGUAGES USING SUPPLEMENTARY ENCODER AND DECODER COMPONENTS
+
 
 
 especial application
@@ -27,18 +30,23 @@ especial application
 - Speech Recognition for Automatically Assessing Afrikaans and isiXhosa Preschool Oral Narratives
 
 
+
 acoustic feature
 - FUSION OF DISCRETE REPRESENTATIONS AND SELF-AUGMENTED REPRESENTATIONS FOR MULTILINGUAL AUTOMATIC SPEECH RECOGNITION
 - EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios
+
 
 
 dataset
 - Sagalee: an Open Source Automatic Speech Recognition Dataset for Oromo Language
 
 
+
 decoding
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition
 
 
+
 text
 - Scaling A Simple Approach to Zero-Shot Speech Recognition
+
