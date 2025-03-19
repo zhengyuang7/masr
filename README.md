@@ -35,8 +35,7 @@
 # acoustic feature
 - Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition
 - EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios
-
-
+- Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter
 
 # dataset
 - Sagalee: an Open Source Automatic Speech Recognition Dataset for Oromo Language
