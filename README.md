@@ -53,3 +53,4 @@ text
 
 loss
 - Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition
+- MULTILINGUALAUDIO-VISUALSPEECHRECOGNITIONWITHHYBRIDCTC/RNN-T FAST CONFORMER
