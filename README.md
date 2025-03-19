@@ -39,13 +39,14 @@ acoustic feature
 
 dataset
 - Sagalee: an Open Source Automatic Speech Recognition Dataset for Oromo Language
-- Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition
-- MULTILINGUAL AUDIO-VISUAL SPEECH RECOGNITION WITH HYBRID CTC/RNN-T FAST CONFORMER
-- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
+
 
 
 decoding
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition
+- Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition
+- MULTILINGUAL AUDIO-VISUAL SPEECH RECOGNITION WITH HYBRID CTC/RNN-T FAST CONFORMER
+- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
 
 
 
