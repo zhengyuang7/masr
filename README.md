@@ -10,7 +10,7 @@ ssl
 moe
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Ecient Sparsity
 - Mixture-of-Expert Conformer for Streaming Multilingual ASR
-- OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER
+- Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
 - Wav2vec-MoE: An unsupervised pre-training and adaptation method for multi-accent ASR
 - Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition
 - BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR
