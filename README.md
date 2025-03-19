@@ -21,7 +21,7 @@ moe
 
 
 extend language
-- EXTENDING MULTILINGUAL ASR TO NEW LANGUAGES USING SUPPLEMENTARY ENCODER AND DECODER COMPONENTS
+- Extending Multilingual ASR to New Languages Using Supplementary Encoder and Decoder Components
 
 
 
