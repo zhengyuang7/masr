@@ -1,5 +1,5 @@
 # ssl
-- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research
+- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K)
 - Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter
 - Anatomy of Industrial Scale Multilingual ASR
 - mHuBERT-147: A Compact Multilingual HuBERT Model
