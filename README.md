@@ -23,7 +23,7 @@
 
 
 # extend language
-- Extending Multilingual ASR to New Languages Using Supplementary Encoder and Decoder Components
+- Extending Multilingual ASR to New Languages Using Supplementary Encoder and Decoder Components [paper](https://www.researchgate.net/profile/Yerbolat-Khassanov/publication/379818645_Extending_Multilingual_ASR_to_New_Languages_Using_Supplementary_Encoder_and_Decoder_Components/links/666a5034a54c5f0b94613689/Extending-Multilingual-ASR-to-New-Languages-Using-Supplementary-Encoder-and-Decoder-Components.pdf)
 
 
 
