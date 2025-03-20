@@ -30,7 +30,7 @@
 # especial application
 - A Comparative Analysis of Bilingual and Trilingual Wav2Vec Models for Automatic Speech Recognition in Multilingual Oral History Archives [paper](https://arxiv.org/pdf/2407.17160)
 - Speech Recognition for Automatically Assessing Afrikaans and isiXhosa Preschool Oral Narratives [paper](https://arxiv.org/pdf/2501.06478)
-- Automatic speech recognition (ASR) for the diagnosis of pronunciation of speech sound disorders in Korean children
+- Automatic speech recognition (ASR) for the diagnosis of pronunciation of speech sound disorders in Korean children [paper](https://arxiv.org/pdf/2403.08187)
 
 
 
