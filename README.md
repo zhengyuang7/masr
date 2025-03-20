@@ -50,7 +50,8 @@
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.03257)
 - Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition [paper](https://www.arxiv.org/pdf/2409.16954)
 - Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer [paper](https://arxiv.org/pdf/2405.12983)
-- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
+- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting [paper](Rapid Language Adaptation for Multilingual E2E Speech Recognition Using
+ Encoder Prompting)
 
 # knowledge distillation
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070)
