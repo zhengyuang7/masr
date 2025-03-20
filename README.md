@@ -4,7 +4,7 @@
 - Anatomy of Industrial Scale Multilingual ASR [paper](https://arxiv.org/pdf/2404.09841)
 - mHuBERT-147: A Compact Multilingual HuBERT Model [paper](https://arxiv.org/pdf/2406.06371) [code](https://huggingface.co/utter-project/mHuBERT-147)
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets
-- LANGUAGEBIASINSELF-SUPERVISEDLEARNINGFORAUTOMATIC SPEECHRECOGNITION [paper](https://arxiv.org/pdf/2501.19321)
+- LANGUAGEBIASINSELF-SUPERVISEDLEARNINGFORAUTOMATIC SPEECHRECOGNITION [paper](https://arxiv.org/pdf/2501.19321) [paper](https://arxiv.org/pdf/2406.08641)
 - XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr)
 
 
