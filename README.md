@@ -6,6 +6,7 @@
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets [paper](https://arxiv.org/pdf/2406.08641)
 - LANGUAGEBIASINSELF-SUPERVISEDLEARNINGFORAUTOMATIC SPEECHRECOGNITION [paper](https://arxiv.org/pdf/2501.19321)
 - XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr)
+- Scaling Speech Technology to 1,000+ Languages [paper](https://arxiv.org/pdf/2305.13516) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 
 
 
@@ -52,8 +53,12 @@
 - Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer [paper](https://arxiv.org/pdf/2405.12983)
 - Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting [paper](https://arxiv.org/pdf/2406.12611)
 
+
+
 # knowledge distillation
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070)
+
+
 
 
 
