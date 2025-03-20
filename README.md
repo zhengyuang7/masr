@@ -14,7 +14,7 @@
 - Mixture-of-Expert Conformer for Streaming Multilingual ASR [paper](https://arxiv.org/pdf/2305.15663)
 - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [paper](https://arxiv.org/pdf/1701.06538)
 - Wav2vec-MoE: An unsupervised pre-training and adaptation method for multi-accent ASR
-- Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition
+- Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition [paper](https://arxiv.org/pdf/2307.05956)
 - BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR
 - The ASRU 2019 Mandarin-English Code-Switching Speech Recognition Challenge: Open Datasets, Tracks, Methods and Results
 - LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR
