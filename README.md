@@ -58,5 +58,5 @@
 
 
 # text
-- Scaling A Simple Approach to Zero-Shot Speech Recognition
+- Scaling A Simple Approach to Zero-Shot Speech Recognition [paper](https://arxiv.org/pdf/2407.17852)
 
