@@ -51,7 +51,7 @@
 - Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting
 
 # knowledge distillation
-- Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [page](https://arxiv.org/pdf/2311.01070)
+- Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070)
 
 
 
