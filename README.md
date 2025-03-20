@@ -18,7 +18,7 @@
 - BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR [paper](https://arxiv.org/pdf/2501.12602)
 - The ASRU 2019 Mandarin-English Code-Switching Speech Recognition Challenge: Open Datasets, Tracks, Methods and Results
 - LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR [paper](https://arxiv.org/pdf/2406.06619)
-- M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization
+- M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization [paper](https://www.isca-archive.org/interspeech_2024/saif24_interspeech.pdf)
 
 
 
