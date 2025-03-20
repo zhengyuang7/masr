@@ -5,6 +5,7 @@
 - mHuBERT-147: A Compact Multilingual HuBERT Model
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets
 - LANGUAGEBIASINSELF-SUPERVISEDLEARNINGFORAUTOMATIC SPEECHRECOGNITION [paper](https://arxiv.org/pdf/2501.19321)
+- XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296)
 
 
 
