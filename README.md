@@ -61,8 +61,12 @@
 
 
 
+# LID
+- Improving Multilingual ASR in the Wild Using Simple N-best Re-ranking [paper](https://arxiv.org/pdf/2409.18428) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/lid_rerank)
+
 
 
 # text
 - Scaling A Simple Approach to Zero-Shot Speech Recognition [paper](https://arxiv.org/pdf/2407.17852) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/zero_shot)
+
 
