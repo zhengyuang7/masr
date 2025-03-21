@@ -1,4 +1,4 @@
-# ssl
+# SSL
 ### 2025
 - Language Bias in Self-Supervised Learning For Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.19321)
 ### 2024
@@ -13,7 +13,7 @@
 
 
 
-# moe
+# MOE
 ### 2025
 - BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR [paper](https://arxiv.org/pdf/2501.12602) ***NetEase***
 ### 2024
@@ -30,13 +30,13 @@
 
 
 
-# extend language
+# Extend Language
 ### 2024
 - Extending Multilingual ASR to New Languages Using Supplementary Encoder and Decoder Components [paper](https://www.researchgate.net/profile/Yerbolat-Khassanov/publication/379818645_Extending_Multilingual_ASR_to_New_Languages_Using_Supplementary_Encoder_and_Decoder_Components/links/666a5034a54c5f0b94613689/Extending-Multilingual-ASR-to-New-Languages-Using-Supplementary-Encoder-and-Decoder-Components.pdf) ***ByteDance***
 
 
 
-# especial application
+# Especial Application
 ### 2025
 - Speech Recognition for Automatically Assessing Afrikaans and isiXhosa Preschool Oral Narratives [paper](https://arxiv.org/pdf/2501.06478)
 ### 2024
@@ -46,7 +46,7 @@
 
 
 
-# acoustic feature
+# Acoustic Feature
 ### 2024
 - Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition [paper](https://arxiv.org/pdf/2411.18107) ***National Taiwan University***
 - EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios [paper](https://arxiv.org/pdf/2310.03938)
@@ -55,13 +55,13 @@
 
 
 
-# dataset
+# Dataset
 ### 2025
 - Sagalee: an Open Source Automatic Speech Recognition Dataset for Oromo Language [paper](https://arxiv.org/pdf/2502.00421) [dataset](https://github.com/turinaf/sagalee)
 
 
 
-# decoding
+# Decoding
 ### 2025
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.03257) ***TRIP***
 ### 2024
@@ -71,7 +71,7 @@
 
 
 
-# knowledge distillation
+# Knowledge Distillation
 ### 2024
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070)
 
@@ -83,7 +83,7 @@
 
 
 
-# token
+# Token
 ### 2025
 - Scaling A Simple Approach to Zero-Shot Speech Recognition [paper](https://arxiv.org/pdf/2407.17852) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/zero_shot) ***Meta FAIR***
 ### 2024
