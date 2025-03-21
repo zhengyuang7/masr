@@ -9,9 +9,9 @@
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets [paper](https://arxiv.org/pdf/2406.08641)
 ### 2023
 - Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter [paper](https://arxiv.org/pdf/2309.09443)
-- MMS: Scaling Speech Technology to 1,000+ Languages [paper](https://arxiv.org/pdf/2305.13516) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+- MMS: Scaling Speech Technology to 1,000+ Languages [paper](https://arxiv.org/pdf/2305.13516) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) ***Meta FAIR***
 ### before 2023
-- XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr)
+- XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr) ***Meta FAIR***
 
 
 
@@ -89,7 +89,7 @@
 
 # token
 ### 2025
-- Scaling A Simple Approach to Zero-Shot Speech Recognition [paper](https://arxiv.org/pdf/2407.17852) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/zero_shot)
+- Scaling A Simple Approach to Zero-Shot Speech Recognition [paper](https://arxiv.org/pdf/2407.17852) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/zero_shot) ***Meta FAIR***
 ### 2024
 - Exploring SSL Discrete Tokens for Multilingual ASR [paper](https://arxiv.org/pdf/2409.08805)
 
