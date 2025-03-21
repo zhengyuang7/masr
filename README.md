@@ -8,11 +8,10 @@
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets [paper](https://arxiv.org/pdf/2406.08641)
 ### 2023
 - Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter [paper](https://arxiv.org/pdf/2309.09443)
-## before 2023
-
-
-- XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr)
 - MMS: Scaling Speech Technology to 1,000+ Languages [paper](https://arxiv.org/pdf/2305.13516) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+### before 2023
+- XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr)
+
 
 
 
