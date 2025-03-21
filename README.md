@@ -68,5 +68,6 @@
 
 # text
 - Scaling A Simple Approach to Zero-Shot Speech Recognition [paper](https://arxiv.org/pdf/2407.17852) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/zero_shot)
+- Exploring SSL Discrete Tokens for Multilingual ASR [paper](https://arxiv.org/pdf/2409.08805)
 
 
