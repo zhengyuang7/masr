@@ -16,15 +16,19 @@
 
 
 # moe
-- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Ecient Sparsity [paper](https://arxiv.org/pdf/2101.03961) [code1](https://github.com/google-research/t5x) [code2](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
-- Mixture-of-Expert Conformer for Streaming Multilingual ASR [paper](https://arxiv.org/pdf/2305.15663)
-- Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [paper](https://arxiv.org/pdf/1701.06538)
-- Wav2vec-MoE: An unsupervised pre-training and adaptation method for multi-accent ASR [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ell2.12823)
-- Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition [paper](https://arxiv.org/pdf/2307.05956)
+### 2025
 - BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR [paper](https://arxiv.org/pdf/2501.12602)
-- The ASRU 2019 Mandarin-English Code-Switching Speech Recognition Challenge: Open Datasets, Tracks, Methods and Results [paper](https://arxiv.org/pdf/2007.05916)
+### 2024
 - LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR [paper](https://arxiv.org/pdf/2406.06619)
 - M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization [paper](https://www.isca-archive.org/interspeech_2024/saif24_interspeech.pdf)
+### 2023
+- Mixture-of-Expert Conformer for Streaming Multilingual ASR [paper](https://arxiv.org/pdf/2305.15663)
+- Wav2vec-MoE: An unsupervised pre-training and adaptation method for multi-accent ASR [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ell2.12823)
+- Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition [paper](https://arxiv.org/pdf/2307.05956)
+### before 2023
+- Switch Transformers: Scaling to Trillion Parameter Models with Simple and Ecient Sparsity [paper](https://arxiv.org/pdf/2101.03961) [code1](https://github.com/google-research/t5x) [code2](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
+- Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer [paper](https://arxiv.org/pdf/1701.06538)
+- The ASRU 2019 Mandarin-English Code-Switching Speech Recognition Challenge: Open Datasets, Tracks, Methods and Results [paper](https://arxiv.org/pdf/2007.05916)
 
 
 
