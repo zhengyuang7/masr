@@ -52,7 +52,8 @@
 
 # acoustic feature
 ### 2024
-- Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition [paper](https://arxiv.org/pdf/2411.18107)
+- Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition [paper](https://arxiv.org/pdf/2411.18107) ***National Taiwan University***
+
 - EFFUSE: Efficient Self-Supervised Feature Fusion for E2E ASR in Low Resource and Multilingual Scenarios [paper](https://arxiv.org/pdf/2310.03938)
 ### 2023
 - Enhancing Multilingual Speech Recognition through Language Prompt Tuning and Frame-Level Language Adapter [paper](https://arxiv.org/pdf/2309.09443)
