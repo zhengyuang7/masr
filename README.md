@@ -33,13 +33,16 @@
 
 
 # extend language
+### 2024
 - Extending Multilingual ASR to New Languages Using Supplementary Encoder and Decoder Components [paper](https://www.researchgate.net/profile/Yerbolat-Khassanov/publication/379818645_Extending_Multilingual_ASR_to_New_Languages_Using_Supplementary_Encoder_and_Decoder_Components/links/666a5034a54c5f0b94613689/Extending-Multilingual-ASR-to-New-Languages-Using-Supplementary-Encoder-and-Decoder-Components.pdf)
 
 
 
 # especial application
-- A Comparative Analysis of Bilingual and Trilingual Wav2Vec Models for Automatic Speech Recognition in Multilingual Oral History Archives [paper](https://arxiv.org/pdf/2407.17160)
+### 2025
 - Speech Recognition for Automatically Assessing Afrikaans and isiXhosa Preschool Oral Narratives [paper](https://arxiv.org/pdf/2501.06478)
+### 2024
+- A Comparative Analysis of Bilingual and Trilingual Wav2Vec Models for Automatic Speech Recognition in Multilingual Oral History Archives [paper](https://arxiv.org/pdf/2407.17160)
 - Automatic speech recognition (ASR) for the diagnosis of pronunciation of speech sound disorders in Korean children [paper](https://arxiv.org/pdf/2403.08187)
 - Towards Building an End-to-End Multilingual Automatic Lyrics Transcription Model [paper](https://arxiv.org/pdf/2406.17618)
 
