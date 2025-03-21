@@ -18,9 +18,10 @@
 
 # moe
 ### 2025
-- BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR [paper](https://arxiv.org/pdf/2501.12602)
+- BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR [paper](https://arxiv.org/pdf/2501.12602) ***NetEase***
 ### 2024
-- LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR [paper](https://arxiv.org/pdf/2406.06619)
+- LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR [paper](https://arxiv.org/pdf/2406.06619) ***Shanghai Jiao Tong University***
+
 - M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization [paper](https://www.isca-archive.org/interspeech_2024/saif24_interspeech.pdf)
 ### 2023
 - Mixture-of-Expert Conformer for Streaming Multilingual ASR [paper](https://arxiv.org/pdf/2305.15663) ***Google***
