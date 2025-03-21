@@ -2,7 +2,7 @@
 ### 2025
 - Language Bias in Self-Supervised Learning For Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.19321)
 ### 2024
-- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K)
+- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K) ***Meituan***
 - Anatomy of Industrial Scale Multilingual ASR [paper](https://arxiv.org/pdf/2404.09841)
 - mHuBERT-147: A Compact Multilingual HuBERT Model [paper](https://arxiv.org/pdf/2406.06371) [code](https://huggingface.co/utter-project/mHuBERT-147)
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets [paper](https://arxiv.org/pdf/2406.08641)
@@ -65,11 +65,11 @@
 
 # decoding
 ### 2025
-- Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.03257) *TRIP*
+- Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.03257) ***TRIP***
 ### 2024
 - Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition [paper](https://www.arxiv.org/pdf/2409.16954)
-- Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer [paper](https://arxiv.org/pdf/2405.12983) *NVDIA*
-- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting [paper](https://arxiv.org/pdf/2406.12611) *Sony*
+- Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer [paper](https://arxiv.org/pdf/2405.12983) ***NVDIA***
+- Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting [paper](https://arxiv.org/pdf/2406.12611) ***Sony***
 
 
 
