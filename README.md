@@ -74,7 +74,7 @@
 
 # Knowledge Distillation
 ### 2024
-- Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070)
+- Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070) [code](https://github.com/naver/multilingual-distilwhisper)
 
 
 
