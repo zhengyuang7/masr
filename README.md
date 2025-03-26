@@ -1,6 +1,7 @@
 # SSL
 ### 2025
 - Language Bias in Self-Supervised Learning For Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.19321)
+- ML-SUPERB: Multilingual Speech Universal PERformance Benchmark [paper](https://arxiv.org/pdf/2305.10615)
 ### 2024
 - MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K) ***Meituan***
 - Anatomy of Industrial Scale Multilingual ASR [paper](https://arxiv.org/pdf/2404.09841) ***AssemblyAI***
