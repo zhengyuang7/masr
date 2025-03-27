@@ -11,6 +11,7 @@
 - MMS: Scaling Speech Technology to 1,000+ Languages [paper](https://arxiv.org/pdf/2305.13516) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) ***Meta FAIR***
 ### before 2023
 - XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [paper](https://arxiv.org/pdf/2111.09296) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr) ***Meta FAIR***
+- whisper [paper](https://cdn.openai.com/papers/whisper.pdf)
 
 
 
