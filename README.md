@@ -1,8 +1,3 @@
-# Encoder-Decoder
-Zipformer: A faster and better encoder for automatic speech recognition [paper](https://arxiv.org/pdf/2310.11230)
-
-
-
 # SSL
 ### 2025
 - Language Bias in Self-Supervised Learning For Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.19321)
@@ -81,6 +76,7 @@ Zipformer: A faster and better encoder for automatic speech recognition [paper](
 # Knowledge Distillation
 ### 2024
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070) [code](https://github.com/naver/multilingual-distilwhisper)
+- Leave No Knowledge Behind During Knowledge Distillation: Towards Practical and Effective Knowledge Distillation For Code-Switching ASR Using Realistic Data [paper](https://arxiv.org/pdf/2407.10603)
 ### NLP
 - A Survey on Knowledge Distillation of Large Language Models [paper](https://arxiv.org/pdf/2402.13116)
 
