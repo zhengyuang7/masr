@@ -4,12 +4,12 @@
 # SSL
 ### 2025
 - Language Bias in Self-Supervised Learning For Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.19321) **SLT**
-- ML-SUPERB: Multilingual Speech Universal PERformance Benchmark [paper](https://arxiv.org/pdf/2305.10615) **InterSpeech**
+- ML-SUPERB: Multilingual Speech Universal PERformance Benchmark [paper](https://arxiv.org/pdf/2305.10615) **INTERSPEECH**
 ### 2024
-- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K) ***Meituan*** **InterSpeech**
+- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K) ***Meituan*** **IINTERSPEECH**
 - Anatomy of Industrial Scale Multilingual ASR [paper](https://arxiv.org/pdf/2404.09841) ***AssemblyAI***
-- mHuBERT-147: A Compact Multilingual HuBERT Model [paper](https://arxiv.org/pdf/2406.06371) [code](https://huggingface.co/utter-project/mHuBERT-147)  **Interspeech**
-- ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets [paper](https://arxiv.org/pdf/2406.08641) **Interspeech**
+- mHuBERT-147: A Compact Multilingual HuBERT Model [paper](https://arxiv.org/pdf/2406.06371) [code](https://huggingface.co/utter-project/mHuBERT-147)  **INTERSPEECH**
+- ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets [paper](https://arxiv.org/pdf/2406.08641) **INTERSPEECH**
 ### 2023
 - MMS: Scaling Speech Technology to 1,000+ Languages [paper](https://arxiv.org/pdf/2305.13516) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) ***Meta FAIR***
 ### before 2023
@@ -23,7 +23,7 @@
 - BLR-MoE: Boosted Language-Routing Mixture of Experts for Domain-Robust Multilingual E2E ASR [paper](https://arxiv.org/pdf/2501.12602) ***NetEase*** **ICASSP**
 ### 2024
 - LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR [paper](https://arxiv.org/pdf/2406.06619) ***Shanghai Jiao Tong University***
-- M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization [paper](https://www.isca-archive.org/interspeech_2024/saif24_interspeech.pdf) **Interspeech**
+- M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization [paper](https://www.isca-archive.org/interspeech_2024/saif24_interspeech.pdf) **INTERSPEECH**
 ### 2023
 - Mixture-of-Expert Conformer for Streaming Multilingual ASR [paper](https://arxiv.org/pdf/2305.15663) ***Google***
 - Wav2vec-MoE: An unsupervised pre-training and adaptation method for multi-accent ASR [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ell2.12823)
