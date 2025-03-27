@@ -81,6 +81,7 @@ Zipformer: A faster and better encoder for automatic speech recognition [paper](
 # Knowledge Distillation
 ### 2024
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070) [code](https://github.com/naver/multilingual-distilwhisper)
+### NLP
 - A Survey on Knowledge Distillation of Large Language Models [paper](https://arxiv.org/pdf/2402.13116)
 
 
