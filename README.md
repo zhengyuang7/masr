@@ -87,7 +87,7 @@
 
 # LID
 ### 2024
-- Improving Multilingual ASR in the Wild Using Simple N-best Re-ranking [paper](https://arxiv.org/pdf/2409.18428) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/lid_rerank) ***Meta FAIR***
+- Improving Multilingual ASR in the Wild Using Simple N-best Re-ranking [paper](https://arxiv.org/pdf/2409.18428) [code](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/lid_rerank) ***Meta FAIR*** **ICASSP**
 
 
 
