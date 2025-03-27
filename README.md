@@ -71,7 +71,7 @@
 - Breaking Through the Spike: Spike Window Decoding for Accelerated and Precise Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.03257) ***TRIP*** **ICASSP**
 ### 2024
 - Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition [paper](https://www.arxiv.org/pdf/2409.16954)
-- Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer [paper](https://arxiv.org/pdf/2405.12983) ***NVDIA***
+- Multilingual Audio-Visual Speech Recognition with Hybrid CTC/RNN-T Fast Conformer [paper](https://arxiv.org/pdf/2405.12983) ***NVDIA*** **ICASSP**
 - Rapid Language Adaptation for Multilingual E2E Speech Recognition Using Encoder Prompting [paper](https://arxiv.org/pdf/2406.12611) ***Sony*** **INTERSPEECH**
 
 
