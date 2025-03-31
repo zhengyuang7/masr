@@ -6,7 +6,7 @@
 - Language Bias in Self-Supervised Learning For Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.19321) **SLT**
 - ML-SUPERB: Multilingual Speech Universal PERformance Benchmark [paper](https://arxiv.org/pdf/2305.10615) **INTERSPEECH**
 ### 2024
-- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K) ***Meituan*** **IINTERSPEECH**
+- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research [paper](https://arxiv.org/pdf/2406.18301) [dataset](https://huggingface.co/datasets/Alex-Song/MSR-86K) ***Meituan*** **INTERSPEECH**
 - Anatomy of Industrial Scale Multilingual ASR [paper](https://arxiv.org/pdf/2404.09841) ***AssemblyAI***
 - mHuBERT-147: A Compact Multilingual HuBERT Model [paper](https://arxiv.org/pdf/2406.06371) [code](https://huggingface.co/utter-project/mHuBERT-147)  **INTERSPEECH**
 - ML-SUPERB 2.0: Benchmarking Multilingual Speech Models Across Modeling Constraints, Languages, and Datasets [paper](https://arxiv.org/pdf/2406.08641) **INTERSPEECH**
@@ -25,7 +25,7 @@
 - LoRA-Whisper: Parameter-Efficient and Extensible Multilingual ASR [paper](https://arxiv.org/pdf/2406.06619) ***Shanghai Jiao Tong University***
 - M2ASR: Multilingual Multi-Task Automatic Speech Recognition via Multi-Objective Optimization [paper](https://www.isca-archive.org/interspeech_2024/saif24_interspeech.pdf) **INTERSPEECH**
 ### 2023
-- Mixture-of-Expert Conformer for Streaming Multilingual ASR [paper](https://arxiv.org/pdf/2305.15663) ***Google***
+- Mixture-of-Expert Conformer for Streaming Multilingual ASR [paper](https://arxiv.org/pdf/2305.15663) ***Google*** **INTERSPEECH**
 - Wav2vec-MoE: An unsupervised pre-training and adaptation method for multi-accent ASR [paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ell2.12823)
 - Language-Routing Mixture of Experts for Multilingual and Code-Switching Speech Recognition [paper](https://arxiv.org/pdf/2307.05956) **INTERSPEECH**
 ### before 2023
