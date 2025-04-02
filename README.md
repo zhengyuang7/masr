@@ -82,6 +82,7 @@
 ### 2024
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070) [code](https://github.com/naver/multilingual-distilwhisper) **ICASSP**
 - Leave No Knowledge Behind During Knowledge Distillation: Towards Practical and Effective Knowledge Distillation For Code-Switching ASR Using Realistic Data [paper](https://arxiv.org/pdf/2407.10603) **SLT**
+- Learning from Back Chunks: Acquiring More Future Knowledge for Streaming ASR Models via Self Distillation [paper](https://www.isca-archive.org/interspeech_2024/yang24m_interspeech.pdf) **INTERSPEECH**
 ### NLP
 - A Survey on Knowledge Distillation of Large Language Models [paper](https://arxiv.org/pdf/2402.13116) 
 
