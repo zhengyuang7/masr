@@ -1,5 +1,8 @@
 37+5
 # Blog
+- https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+
+
 
 # SSL
 ### 2025
