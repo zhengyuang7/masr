@@ -1,4 +1,4 @@
-37+3
+37+4
 
 
 # SSL
@@ -80,6 +80,7 @@
 ### 2025
 - Knowledge Distillation Based Training of Unified Conformer CTC Models for Multi-form ASR [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890266) **ICASSP**
 - Joint Semantic Knowledge Distillation and Masked Acoustic Modeling for Full-band Speech Restoration With Improved Intelligibility [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890760) **ICASSP**
+-  Knowledge Distillation From Ensemble for Spoken Language Identification [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887729) **ICASSP**
 ### 2024
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts [paper](https://arxiv.org/pdf/2311.01070) [code](https://github.com/naver/multilingual-distilwhisper) **ICASSP**
 - Leave No Knowledge Behind During Knowledge Distillation: Towards Practical and Effective Knowledge Distillation For Code-Switching ASR Using Realistic Data [paper](https://arxiv.org/pdf/2407.10603) **SLT**
