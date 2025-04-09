@@ -6,8 +6,8 @@
 
 
 # ICASSP2025
--  AMuSE: Attentive Multilingual Speech Encoding for Zero-Prior ASR [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890819)
-
+- AMuSE: Attentive Multilingual Speech Encoding for Zero-Prior ASR [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890819)
+- Enhancing Standard and Dialectal Frisian ASR: Multilingual Fine-tuning and Language Identification for Improved Low-resource Performance
 
 
 
