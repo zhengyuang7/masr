@@ -3,6 +3,17 @@
 
 
 
+
+
+# ICASSP2025
+-  AMuSE: Attentive Multilingual Speech Encoding for Zero-Prior ASR [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890819)
+
+
+
+
+
+
+
 # SSL
 ### 2025
 - Language Bias in Self-Supervised Learning For Automatic Speech Recognition [paper](https://arxiv.org/pdf/2501.19321) **SLT**
