@@ -1,8 +1,8 @@
 # Blog
 - https://ai.meta.com/blog/llama-4-multimodal-intelligence/
 
-
-
+# vocab
+- Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities [paper](https://arxiv.org/pdf/2211.05756)
 
 
 # ICASSP2025
