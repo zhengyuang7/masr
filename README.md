@@ -3,7 +3,6 @@
 
 # vocab
 - Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities [paper](https://arxiv.org/pdf/2211.05756) ***ICASSP 2023***
-- Massively Multilingual ASR: 50 Languages, 1 Model, 1 Billion Parameters
 - Scaling End-to-End Models for Large-Scale Multilingual ASR
 
 # ICASSP2025
