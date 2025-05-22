@@ -3,7 +3,7 @@
 
 # vocab
 - Massively Multilingual ASR on 70 Languages: Tokenization, Architecture, and Generalization Capabilities [paper](https://arxiv.org/pdf/2211.05756) ***ICASSP 2023***
-
+- Massively Multilingual ASR: 50 Languages, 1 Model, 1 Billion Parameters
 
 # ICASSP2025
 - AMuSE: Attentive Multilingual Speech Encoding for Zero-Prior ASR [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890819)
